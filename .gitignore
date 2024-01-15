@@ -1,0 +1,6 @@
+build
+sequences
+encodings/*
+*.yuv
+*.gz
+.gitb/*
